@@ -40,6 +40,15 @@ const achievements: Achievement[] = [
     description: 'Completed IBM SkillsBuild Cybersecurity Foundation Course covering core concepts such as cybersecurity principles, threat landscape, risk management, and foundational security practices.',
     googleDriveLink: 'https://drive.google.com/file/d/16cijaNLYNBVmhPhkeUBbu2xU043OkgKn/view?usp=sharing',
   },
+{
+  id: '5',
+  title: 'Basic Indian Sign Language (ISL)',
+  organization: 'Central Institute of Educational Technology (CIET) ',
+  date: '2026',
+  type: 'certificate',
+  description: 'Learned fundamental Indian Sign Language communication skills. Developed ability to support inclusive learning for hearing-impaired students',
+  googleDriveLink: '',
+},
   
 ];
 
